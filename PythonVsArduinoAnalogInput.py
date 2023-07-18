@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# Author: TRAN LE PHUONG LAN
 import pyfirmata
 import time
 
